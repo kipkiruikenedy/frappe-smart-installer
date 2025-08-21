@@ -1,0 +1,1 @@
+# frappe-smart-installer
